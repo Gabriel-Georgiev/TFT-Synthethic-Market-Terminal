@@ -1,0 +1,986 @@
+{
+  "2026-01-13": {
+    "/VOID6:XCOMP": {
+      "close": 20.468716633518266,
+      "games": 200
+    },
+    "/YORDLE8:XCOMP": {
+      "close": 17.166377054328485,
+      "games": 175
+    },
+    "/BILGEWATER6:XCOMP": {
+      "close": 19.71640239497623,
+      "games": 101
+    },
+    "/BILGEWATER5:XCOMP": {
+      "close": 30.68076465088429,
+      "games": 586
+    },
+    "/DEMACIA7:XCOMP": {
+      "close": 23.017112172328403,
+      "games": 1003
+    },
+    "/BRAWLER4:XCOMP": {
+      "close": 22.789864384809494,
+      "games": 235
+    },
+    "/FRELJORD3:XCOMP": {
+      "close": 18.602130160712587,
+      "games": 348
+    },
+    "/BILGEWATER4:XCOMP": {
+      "close": 32.52756154658699,
+      "games": 176
+    },
+    "/EXPLORER3:XCOMP": {
+      "close": 20.420112355629996,
+      "games": 123
+    },
+    "/IONIA3:XCOMP": {
+      "close": 27.789722630977174,
+      "games": 749
+    },
+    "/IONIA7:XCOMP": {
+      "close": 20.530723332984405,
+      "games": 233
+    },
+    "/BILGEWATER7:XCOMP": {
+      "close": 15.625537980865719,
+      "games": 314
+    },
+    "/WARDEN5:XCOMP": {
+      "close": 22.511849099177688,
+      "games": 72
+    },
+    "/NOXUS7:XCOMP": {
+      "close": 17.732674353107722,
+      "games": 168
+    },
+    "/BILGEWATER3:XCOMP": {
+      "close": 21.96050310178864,
+      "games": 274
+    },
+    "/ZAUN3:XCOMP": {
+      "close": 13.227099515899999,
+      "games": 191
+    },
+    "/NOXUS3:XCOMP": {
+      "close": 22.972638507103838,
+      "games": 281
+    },
+    "/VOID4:XCOMP": {
+      "close": 12.318718128934814,
+      "games": 84
+    },
+    "/DEFENDER2:XCOMP": {
+      "close": 20.959907882340627,
+      "games": 233
+    },
+    "/PILTOVER6:XCOMP": {
+      "close": 23.635161627669447,
+      "games": 206
+    },
+    "/SORCERER4:XCOMP": {
+      "close": 15.366852136662668,
+      "games": 65
+    },
+    "/DEMACIA5:XCOMP": {
+      "close": 17.056567166190085,
+      "games": 202
+    },
+    "/SHADOWISLES5:XCOMP": {
+      "close": 23.203303966366345,
+      "games": 86
+    },
+    "/IONIA4:XCOMP": {
+      "close": 17.432265107445676,
+      "games": 70
+    },
+    "/IONIA5:XCOMP": {
+      "close": 20.47380704370612,
+      "games": 610
+    },
+    "/PILTOVER4:XCOMP": {
+      "close": 34.117280535159736,
+      "games": 147
+    },
+    "/INVOKER4:XCOMP": {
+      "close": 27.390834050158006,
+      "games": 69
+    },
+    "/EXPLORER5:XCOMP": {
+      "close": 17.092091983354038,
+      "games": 53
+    },
+    "/NOXUS5:XCOMP": {
+      "close": 15.877722571017506,
+      "games": 86
+    },
+    "/BRAWLER6:XCOMP": {
+      "close": 19.226961299102125,
+      "games": 93
+    },
+    "/BRAWLER3:XCOMP": {
+      "close": 10.311164366323602,
+      "games": 47
+    },
+    "/JUGGERNAUT4:XCOMP": {
+      "close": 17.025982604695916,
+      "games": 203
+    },
+    "/ZAUN4:XCOMP": {
+      "close": 23.99674073040206,
+      "games": 81
+    },
+    "/DEMACIA8:XCOMP": {
+      "close": 14.697034358920678,
+      "games": 39
+    },
+    "/FRELJORD5:XCOMP": {
+      "close": 22.5371446307278,
+      "games": 143
+    },
+    "/ZAUN7:XCOMP": {
+      "close": 21.952546887090037,
+      "games": 194
+    },
+    "/DEMACIA6:XCOMP": {
+      "close": 10.119334240552705,
+      "games": 57
+    },
+    "/SHADOWISLES4:XCOMP": {
+      "close": 11.455020170868597,
+      "games": 52
+    },
+    "/ZAUN5:XCOMP": {
+      "close": 23.546580266243325,
+      "games": 187
+    },
+    "/YORDLE6:XCOMP": {
+      "close": 14.504679158379567,
+      "games": 50
+    },
+    "/BRAWLER5:XCOMP": {
+      "close": 10.06280749502774,
+      "games": 30
+    },
+    "/VOID9:XCOMP": {
+      "close": 40.31869957469246,
+      "games": 108
+    },
+    "/SHURIMA3:XCOMP": {
+      "close": 28.833743326703654,
+      "games": 40
+    },
+    "/IONIA6:XCOMP": {
+      "close": 10.630924549588846,
+      "games": 36
+    },
+    "/VANQUISHER4:XCOMP": {
+      "close": 15.93949544645661,
+      "games": 41
+    },
+    "/BILGEWATER10:XCOMP": {
+      "close": 74.81639826563162,
+      "games": 38
+    },
+    "/DEFENDER3:XCOMP": {
+      "close": 12.190300365742635,
+      "games": 33
+    },
+    "/FRELJORD4:XCOMP": {
+      "close": 13.272906042978272,
+      "games": 28
+    },
+    "/PILTOVER5:XCOMP": {
+      "close": 23.96119589111547,
+      "games": 23
+    },
+    "/FRELJORD7:XCOMP": {
+      "close": 31.652339579189782,
+      "games": 25
+    },
+    "/JUGGERNAUT2:XCOMP": {
+      "close": 14.852339579189783,
+      "games": 25
+    },
+    "/NOXUS4:XCOMP": {
+      "close": 16.409695193323373,
+      "games": 22
+    },
+    "/YORDLE4:XCOMP": {
+      "close": 8.900587008511222,
+      "games": 26
+    },
+    "/WARDEN4:XCOMP": {
+      "close": 19.701477471549698,
+      "games": 28
+    },
+    "/JUGGERNAUT3:XCOMP": {
+      "close": 4.500971189969411,
+      "games": 27
+    },
+    "/TARGON6:XCOMP": {
+      "close": 8.900587008511222,
+      "games": 26
+    },
+    "/EXPLORER4:XCOMP": {
+      "close": 7.8531467718110655,
+      "games": 36
+    },
+    "/VOID7:XCOMP": {
+      "close": 17.318786102414283,
+      "games": 22
+    },
+    "/DEMACIA3:XCOMP": {
+      "close": 19.371058739446354,
+      "games": 29
+    },
+    "/BILGEWATER8:XCOMP": {
+      "close": 15.04605882968701,
+      "games": 22
+    },
+    "/SLAYER4:XCOMP": {
+      "close": 23.396140828361073,
+      "games": 30
+    }
+  },
+  "2026-01-14": {
+    "/BILGEWATER4:XCOMP": {
+      "close": 32.42622545993333,
+      "games": 182
+    },
+    "/IONIA7:XCOMP": {
+      "close": 20.441726687794105,
+      "games": 225
+    },
+    "/BILGEWATER5:XCOMP": {
+      "close": 30.323113801956147,
+      "games": 607
+    },
+    "/SHADOWISLES5:XCOMP": {
+      "close": 20.420306984203016,
+      "games": 83
+    },
+    "/DEMACIA7:XCOMP": {
+      "close": 23.222103535283125,
+      "games": 992
+    },
+    "/BILGEWATER6:XCOMP": {
+      "close": 20.017711152358416,
+      "games": 122
+    },
+    "/ZAUN7:XCOMP": {
+      "close": 23.782152117545373,
+      "games": 200
+    },
+    "/BILGEWATER7:XCOMP": {
+      "close": 15.179214893731615,
+      "games": 337
+    },
+    "/EXPLORER5:XCOMP": {
+      "close": 15.689282627484875,
+      "games": 52
+    },
+    "/BRAWLER4:XCOMP": {
+      "close": 22.22941701285304,
+      "games": 248
+    },
+    "/BILGEWATER3:XCOMP": {
+      "close": 22.009123021580276,
+      "games": 253
+    },
+    "/BRAWLER5:XCOMP": {
+      "close": 12.91764415359921,
+      "games": 28
+    },
+    "/JUGGERNAUT4:XCOMP": {
+      "close": 17.932152117545375,
+      "games": 200
+    },
+    "/YORDLE8:XCOMP": {
+      "close": 16.791466960006286,
+      "games": 198
+    },
+    "/BILGEWATER10:XCOMP": {
+      "close": 73.27689164767817,
+      "games": 44
+    },
+    "/BRAWLER6:XCOMP": {
+      "close": 17.314422952741435,
+      "games": 87
+    },
+    "/NOXUS7:XCOMP": {
+      "close": 19.518615362734266,
+      "games": 158
+    },
+    "/ZAUN5:XCOMP": {
+      "close": 21.852883671363,
+      "games": 206
+    },
+    "/VANQUISHER4:XCOMP": {
+      "close": 21.165385534857204,
+      "games": 47
+    },
+    "/IONIA3:XCOMP": {
+      "close": 27.70113436870288,
+      "games": 706
+    },
+    "/VOID6:XCOMP": {
+      "close": 18.415236448944313,
+      "games": 182
+    },
+    "/FRELJORD4:XCOMP": {
+      "close": 11.489072725027784,
+      "games": 28
+    },
+    "/FRELJORD3:XCOMP": {
+      "close": 17.74410715020667,
+      "games": 294
+    },
+    "/ZAUN6:XCOMP": {
+      "close": 20.919262710909024,
+      "games": 23
+    },
+    "/EXPLORER3:XCOMP": {
+      "close": 19.974148042968267,
+      "games": 112
+    },
+    "/WARDEN5:XCOMP": {
+      "close": 26.194180351483723,
+      "games": 78
+    },
+    "/ZAUN3:XCOMP": {
+      "close": 14.283537856086765,
+      "games": 197
+    },
+    "/NOXUS3:XCOMP": {
+      "close": 21.851373526799403,
+      "games": 217
+    },
+    "/VOID4:XCOMP": {
+      "close": 12.2714494471126,
+      "games": 97
+    },
+    "/DEFENDER2:XCOMP": {
+      "close": 22.30528135377337,
+      "games": 190
+    },
+    "/PILTOVER6:XCOMP": {
+      "close": 24.2832216940363,
+      "games": 160
+    },
+    "/SORCERER4:XCOMP": {
+      "close": 14.327515543535842,
+      "games": 62
+    },
+    "/DEMACIA5:XCOMP": {
+      "close": 18.279449366176895,
+      "games": 192
+    },
+    "/IONIA4:XCOMP": {
+      "close": 19.436967526855167,
+      "games": 70
+    },
+    "/IONIA5:XCOMP": {
+      "close": 21.122469883268256,
+      "games": 597
+    },
+    "/PILTOVER4:XCOMP": {
+      "close": 34.8754304372282,
+      "games": 126
+    },
+    "/INVOKER4:XCOMP": {
+      "close": 32.32578867761452,
+      "games": 64
+    },
+    "/NOXUS5:XCOMP": {
+      "close": 15.261140168762084,
+      "games": 97
+    },
+    "/FRELJORD7:XCOMP": {
+      "close": 25.24352572105381,
+      "games": 27
+    },
+    "/JUGGERNAUT2:XCOMP": {
+      "close": 14.138445823839081,
+      "games": 22
+    },
+    "/BRAWLER3:XCOMP": {
+      "close": 11.795908257267534,
+      "games": 41
+    },
+    "/IONIA6:XCOMP": {
+      "close": 11.36632094497263,
+      "games": 39
+    },
+    "/SLAYER4:XCOMP": {
+      "close": 22.02223182560261,
+      "games": 36
+    },
+    "/DEMACIA8:XCOMP": {
+      "close": 18.508038029386345,
+      "games": 50
+    },
+    "/ZAUN4:XCOMP": {
+      "close": 22.186923310518814,
+      "games": 74
+    },
+    "/SHADOWISLES4:XCOMP": {
+      "close": 9.931495886552067,
+      "games": 54
+    },
+    "/DEMACIA6:XCOMP": {
+      "close": 9.22814545005556,
+      "games": 56
+    },
+    "/FRELJORD5:XCOMP": {
+      "close": 20.94030340059011,
+      "games": 116
+    },
+    "/TARGON6:XCOMP": {
+      "close": 5.825410544511668,
+      "games": 26
+    },
+    "/VOID7:XCOMP": {
+      "close": 20.9566276420209,
+      "games": 22
+    },
+    "/YORDLE6:XCOMP": {
+      "close": 13.875012004225486,
+      "games": 45
+    },
+    "/VOID9:XCOMP": {
+      "close": 38.98783800469194,
+      "games": 91
+    },
+    "/SHURIMA3:XCOMP": {
+      "close": 23.896995271747425,
+      "games": 34
+    },
+    "/JUGGERNAUT3:XCOMP": {
+      "close": 8.801858254105445,
+      "games": 24
+    },
+    "/DEMACIA3:XCOMP": {
+      "close": 18.31056705873511,
+      "games": 23
+    },
+    "/YORDLE4:XCOMP": {
+      "close": 5.051858254105445,
+      "games": 24
+    },
+    "/WARDEN4:XCOMP": {
+      "close": 22.748487467588593,
+      "games": 26
+    },
+    "/EXPLORER4:XCOMP": {
+      "close": 12.064822817631807,
+      "games": 30
+    },
+    "/MAGUS4:XCOMP": {
+      "close": 27.774809460202718,
+      "games": 22
+    },
+    "/DEFENDER3:XCOMP": {
+      "close": 11.786799988078563,
+      "games": 29
+    }
+  },
+  "2026-01-15": {
+    "/BILGEWATER3:XCOMP": {
+      "close": 21.156835219975505,
+      "games": 280
+    },
+    "/BILGEWATER5:XCOMP": {
+      "close": 30.21667326532367,
+      "games": 649
+    },
+    "/FRELJORD5:XCOMP": {
+      "close": 21.647932483525466,
+      "games": 131
+    },
+    "/DEMACIA7:XCOMP": {
+      "close": 22.95047841288897,
+      "games": 1085
+    },
+    "/JUGGERNAUT4:XCOMP": {
+      "close": 17.771355428204146,
+      "games": 229
+    },
+    "/INVOKER4:XCOMP": {
+      "close": 32.7222821818264,
+      "games": 74
+    },
+    "/ZAUN7:XCOMP": {
+      "close": 23.660606356480386,
+      "games": 197
+    },
+    "/NOXUS3:XCOMP": {
+      "close": 21.602981146462344,
+      "games": 204
+    },
+    "/BRAWLER4:XCOMP": {
+      "close": 23.50332216008713,
+      "games": 277
+    },
+    "/DEMACIA5:XCOMP": {
+      "close": 18.38947330728189,
+      "games": 181
+    },
+    "/YORDLE8:XCOMP": {
+      "close": 15.399789278324608,
+      "games": 203
+    },
+    "/IONIA3:XCOMP": {
+      "close": 28.09457916690107,
+      "games": 747
+    },
+    "/MAGUS4:XCOMP": {
+      "close": 24.45226845076312,
+      "games": 25
+    },
+    "/BILGEWATER4:XCOMP": {
+      "close": 30.30146740636654,
+      "games": 172
+    },
+    "/IONIA7:XCOMP": {
+      "close": 20.82404405497222,
+      "games": 221
+    },
+    "/SHADOWISLES5:XCOMP": {
+      "close": 21.399048369568963,
+      "games": 91
+    },
+    "/BILGEWATER6:XCOMP": {
+      "close": 21.34258897207508,
+      "games": 131
+    },
+    "/BILGEWATER7:XCOMP": {
+      "close": 14.849650971569082,
+      "games": 335
+    },
+    "/EXPLORER5:XCOMP": {
+      "close": 14.53852765581806,
+      "games": 45
+    },
+    "/BRAWLER5:XCOMP": {
+      "close": 12.91568352199755,
+      "games": 28
+    },
+    "/BILGEWATER10:XCOMP": {
+      "close": 71.83948760835652,
+      "games": 52
+    },
+    "/BRAWLER6:XCOMP": {
+      "close": 16.71408702924306,
+      "games": 92
+    },
+    "/NOXUS7:XCOMP": {
+      "close": 20.890426320491134,
+      "games": 165
+    },
+    "/ZAUN5:XCOMP": {
+      "close": 21.849287097410805,
+      "games": 214
+    },
+    "/VANQUISHER4:XCOMP": {
+      "close": 22.755507387985507,
+      "games": 49
+    },
+    "/VOID6:XCOMP": {
+      "close": 18.831462257558133,
+      "games": 181
+    },
+    "/FRELJORD4:XCOMP": {
+      "close": 12.72938880758241,
+      "games": 30
+    },
+    "/FRELJORD3:XCOMP": {
+      "close": 17.905321203384794,
+      "games": 304
+    },
+    "/ZAUN6:XCOMP": {
+      "close": 18.062722140915742,
+      "games": 30
+    },
+    "/EXPLORER3:XCOMP": {
+      "close": 22.81839229988927,
+      "games": 108
+    },
+    "/WARDEN5:XCOMP": {
+      "close": 23.866098185040272,
+      "games": 84
+    },
+    "/ZAUN3:XCOMP": {
+      "close": 15.230432126854506,
+      "games": 204
+    },
+    "/VOID4:XCOMP": {
+      "close": 12.366260942286539,
+      "games": 92
+    },
+    "/DEFENDER2:XCOMP": {
+      "close": 22.02886596990716,
+      "games": 182
+    },
+    "/PILTOVER6:XCOMP": {
+      "close": 24.180277371245385,
+      "games": 150
+    },
+    "/SORCERER4:XCOMP": {
+      "close": 15.569536046224318,
+      "games": 55
+    },
+    "/IONIA4:XCOMP": {
+      "close": 17.138925246091322,
+      "games": 73
+    },
+    "/IONIA5:XCOMP": {
+      "close": 21.95652548386737,
+      "games": 619
+    },
+    "/PILTOVER4:XCOMP": {
+      "close": 33.77700837016157,
+      "games": 116
+    },
+    "/NOXUS5:XCOMP": {
+      "close": 13.089399527105234,
+      "games": 97
+    },
+    "/FRELJORD7:XCOMP": {
+      "close": 27.004608713832503,
+      "games": 23
+    },
+    "/JUGGERNAUT2:XCOMP": {
+      "close": 12.96684437939926,
+      "games": 24
+    },
+    "/JUGGERNAUT3:XCOMP": {
+      "close": 14.701397807711835,
+      "games": 28
+    },
+    "/SHADOWISLES4:XCOMP": {
+      "close": 11.522680839669736,
+      "games": 57
+    },
+    "/VOID9:XCOMP": {
+      "close": 38.368157633113874,
+      "games": 98
+    },
+    "/DEMACIA8:XCOMP": {
+      "close": 19.066540488792544,
+      "games": 57
+    },
+    "/YORDLE4:XCOMP": {
+      "close": 5.500541691217,
+      "games": 22
+    },
+    "/DEFENDER3:XCOMP": {
+      "close": 12.45226845076312,
+      "games": 25
+    },
+    "/SHURIMA3:XCOMP": {
+      "close": 23.01226156362608,
+      "games": 34
+    },
+    "/DEMACIA3:XCOMP": {
+      "close": 21.129969236283262,
+      "games": 28
+    },
+    "/BILGEWATER8:XCOMP": {
+      "close": 8.682359873035182,
+      "games": 22
+    },
+    "/BRAWLER3:XCOMP": {
+      "close": 8.622305625105174,
+      "games": 41
+    },
+    "/IONIA6:XCOMP": {
+      "close": 10.333629521220992,
+      "games": 40
+    },
+    "/SLAYER4:XCOMP": {
+      "close": 23.583629521220992,
+      "games": 40
+    },
+    "/YORDLE6:XCOMP": {
+      "close": 13.113157549266054,
+      "games": 43
+    },
+    "/ZAUN4:XCOMP": {
+      "close": 19.352557233953586,
+      "games": 64
+    },
+    "/WARDEN4:XCOMP": {
+      "close": 18.68132105805763,
+      "games": 29
+    },
+    "/DEMACIA6:XCOMP": {
+      "close": 7.081367043995102,
+      "games": 56
+    },
+    "/TARGON6:XCOMP": {
+      "close": 8.743739148615113,
+      "games": 23
+    },
+    "/EXPLORER4:XCOMP": {
+      "close": 13.012261563626078,
+      "games": 34
+    },
+    "/VOID7:XCOMP": {
+      "close": 18.541814760610496,
+      "games": 20
+    }
+  },
+  "2026-01-16": {
+    "/DEMACIA7:XCOMP": {
+      "close": 22.988607781414988,
+      "games": 1128
+    },
+    "/BILGEWATER3:XCOMP": {
+      "close": 20.20078598838399,
+      "games": 297
+    },
+    "/BILGEWATER5:XCOMP": {
+      "close": 29.953830124892136,
+      "games": 693
+    },
+    "/ZAUN3:XCOMP": {
+      "close": 15.15260502042352,
+      "games": 233
+    },
+    "/VOID9:XCOMP": {
+      "close": 38.58544718131318,
+      "games": 99
+    },
+    "/VANQUISHER4:XCOMP": {
+      "close": 22.45935580219258,
+      "games": 69
+    },
+    "/YORDLE8:XCOMP": {
+      "close": 17.849618795915923,
+      "games": 226
+    },
+    "/DEMACIA5:XCOMP": {
+      "close": 19.43480250507065,
+      "games": 174
+    },
+    "/BILGEWATER7:XCOMP": {
+      "close": 14.642581373247802,
+      "games": 336
+    },
+    "/IONIA5:XCOMP": {
+      "close": 21.690154728099433,
+      "games": 626
+    },
+    "/NOXUS3:XCOMP": {
+      "close": 21.215471220562353,
+      "games": 196
+    },
+    "/JUGGERNAUT4:XCOMP": {
+      "close": 18.132758189778862,
+      "games": 231
+    },
+    "/BILGEWATER4:XCOMP": {
+      "close": 29.381623365942684,
+      "games": 182
+    },
+    "/VOID6:XCOMP": {
+      "close": 19.86061018547795,
+      "games": 190
+    },
+    "/ZAUN4:XCOMP": {
+      "close": 18.93371001951888,
+      "games": 59
+    },
+    "/FRELJORD4:XCOMP": {
+      "close": 11.002666479991854,
+      "games": 32
+    },
+    "/ZAUN5:XCOMP": {
+      "close": 22.887702533578913,
+      "games": 237
+    },
+    "/SHADOWISLES4:XCOMP": {
+      "close": 11.87046375739777,
+      "games": 57
+    },
+    "/FRELJORD5:XCOMP": {
+      "close": 21.1296088879838,
+      "games": 126
+    },
+    "/INVOKER4:XCOMP": {
+      "close": 32.203455553029364,
+      "games": 73
+    },
+    "/ZAUN7:XCOMP": {
+      "close": 24.05306583590959,
+      "games": 188
+    },
+    "/BRAWLER4:XCOMP": {
+      "close": 23.853046454614525,
+      "games": 299
+    },
+    "/IONIA3:XCOMP": {
+      "close": 27.9669098632487,
+      "games": 781
+    },
+    "/MAGUS4:XCOMP": {
+      "close": 24.215541526660555,
+      "games": 24
+    },
+    "/IONIA7:XCOMP": {
+      "close": 19.167444284658863,
+      "games": 219
+    },
+    "/SHADOWISLES5:XCOMP": {
+      "close": 22.19346298747582,
+      "games": 95
+    },
+    "/BILGEWATER6:XCOMP": {
+      "close": 22.760745817282643,
+      "games": 137
+    },
+    "/EXPLORER5:XCOMP": {
+      "close": 17.362331182716073,
+      "games": 44
+    },
+    "/BRAWLER5:XCOMP": {
+      "close": 12.472850225940896,
+      "games": 29
+    },
+    "/BILGEWATER10:XCOMP": {
+      "close": 72.65287868533015,
+      "games": 51
+    },
+    "/BRAWLER6:XCOMP": {
+      "close": 15.584863168360716,
+      "games": 85
+    },
+    "/NOXUS7:XCOMP": {
+      "close": 20.00530379875725,
+      "games": 158
+    },
+    "/FRELJORD3:XCOMP": {
+      "close": 17.911014205561603,
+      "games": 312
+    },
+    "/ZAUN6:XCOMP": {
+      "close": 23.271306384278585,
+      "games": 28
+    },
+    "/EXPLORER3:XCOMP": {
+      "close": 22.495061602688118,
+      "games": 115
+    },
+    "/WARDEN5:XCOMP": {
+      "close": 24.47103146319112,
+      "games": 91
+    },
+    "/VOID4:XCOMP": {
+      "close": 12.779939128216864,
+      "games": 101
+    },
+    "/DEFENDER2:XCOMP": {
+      "close": 22.154196480639815,
+      "games": 165
+    },
+    "/PILTOVER6:XCOMP": {
+      "close": 23.417680123851987,
+      "games": 137
+    },
+    "/SORCERER4:XCOMP": {
+      "close": 14.636233869278962,
+      "games": 53
+    },
+    "/IONIA4:XCOMP": {
+      "close": 14.890201269388726,
+      "games": 63
+    },
+    "/PILTOVER4:XCOMP": {
+      "close": 34.11858941723518,
+      "games": 105
+    },
+    "/JUGGERNAUT2:XCOMP": {
+      "close": 12.772074682267126,
+      "games": 22
+    },
+    "/JUGGERNAUT3:XCOMP": {
+      "close": 13.628449241421443,
+      "games": 28
+    },
+    "/DEMACIA8:XCOMP": {
+      "close": 22.223034248532603,
+      "games": 62
+    },
+    "/YORDLE4:XCOMP": {
+      "close": 4.196988156975377,
+      "games": 29
+    },
+    "/DEFENDER3:XCOMP": {
+      "close": 10.795724958233867,
+      "games": 27
+    },
+    "/SHURIMA3:XCOMP": {
+      "close": 23.214132980348232,
+      "games": 35
+    },
+    "/DEMACIA3:XCOMP": {
+      "close": 19.71422953628572,
+      "games": 29
+    },
+    "/BILGEWATER8:XCOMP": {
+      "close": 9.540729049994908,
+      "games": 20
+    },
+    "/BRAWLER3:XCOMP": {
+      "close": 12.22838814784645,
+      "games": 42
+    },
+    "/IONIA6:XCOMP": {
+      "close": 10.385710672653401,
+      "games": 31
+    },
+    "/SLAYER4:XCOMP": {
+      "close": 19.67018135259442,
+      "games": 47
+    },
+    "/YORDLE6:XCOMP": {
+      "close": 10.356990123205376,
+      "games": 35
+    },
+    "/NOXUS5:XCOMP": {
+      "close": 13.510725481260186,
+      "games": 103
+    },
+    "/WARDEN4:XCOMP": {
+      "close": 16.591409303454917,
+      "games": 26
+    },
+    "/DEMACIA6:XCOMP": {
+      "close": 7.566550342031453,
+      "games": 55
+    },
+    "/TARGON6:XCOMP": {
+      "close": 8.382208193327223,
+      "games": 24
+    },
+    "/BRAWLER2:XCOMP": {
+      "close": 16.04072904999491,
+      "games": 20
+    },
+    "/FRELJORD7:XCOMP": {
+      "close": 29.54072904999491,
+      "games": 20
+    },
+    "/EXPLORER4:XCOMP": {
+      "close": 13.081458099989817,
+      "games": 40
+    },
+    "/VOID7:XCOMP": {
+      "close": 17.04072904999491,
+      "games": 20
+    }
+  }
+}

@@ -1,0 +1,14 @@
+API_KEY = ""
+
+PLATFORM = "eun1"
+REGION = "europe"
+
+CHALLENGER_PLAYER_LIMIT = 200
+MATCHES_PER_PLAYER = 20
+MIN_GAMES_PER_COMP = 20
+
+TOP_N_TRAITS = 1
+
+DATA_DIR = "data"
+MARKET_HISTORY_PATH = f"{DATA_DIR}/market_history.json"
+RAW_DAILY_PATH = f"{DATA_DIR}/daily_raw.json"
